@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using TrilhaApiDesafio.Context;
-using TrilhaApiDesafio.Models;
+using TrilhaApiDesafio.Entities;
 
 namespace TrilhaApiDesafio.Controllers
 {
